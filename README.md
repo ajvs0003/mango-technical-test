@@ -39,7 +39,7 @@ npm run cypress:open
 
 #### 2 - Choose mode in Cypress Panel
 
-![Choose mode in Cypress Panel]([readme-resources/firstStep](https://github.com/ajvs0003/mango-technical-test/blob/main/readme-resources/firstStep.png))
+![Choose mode in Cypress Panel](https://github.com/ajvs0003/mango-technical-test/blob/main/readme-resources/firstStep.png)
 
 #### 3 - Choose the browser
 
@@ -47,7 +47,7 @@ npm run cypress:open
 
 #### 4 - Choose the test to run
 
-![Run the tests]([readme-resources/firstStep](https://github.com/ajvs0003/mango-technical-test/blob/main/readme-resources/last-step.png))
+![Run the tests](https://github.com/ajvs0003/mango-technical-test/blob/main/readme-resources/last-step.png)
 
 > 🚩 **Note**
 >
