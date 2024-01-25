@@ -1,0 +1,7 @@
+div.navbar {
+  @apply flex flex-row  bg-gray-900  z-10 text-slate-300 w-full left-0;
+}
+
+div.navbar__item {
+  @apply px-6;
+}

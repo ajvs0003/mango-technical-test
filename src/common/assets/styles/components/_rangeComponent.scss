@@ -1,0 +1,41 @@
+div.rangeBar {
+  @apply flex flex-row items-center justify-between;
+  @apply mt-24;
+}
+
+input.rangeBar__input {
+  @apply rounded-md;
+  @apply text-center;
+  @apply w-12;
+  @apply mt-2 mr-2 ml-2;
+}
+
+input.error {
+  @apply focus-visible:ring-2 focus-visible:ring-red-500;
+}
+
+div.range {
+  @apply h-4;
+}
+
+div.range_child_container {
+  @apply flex flex-row;
+  @apply z-0;
+  @apply mt-1;
+}
+
+div.rangeBar__activeThumb {
+  @apply z-50;
+  @apply bg-green-400;
+  @apply h-4 w-4;
+  @apply rounded-full;
+  @apply cursor-pointer;
+  @apply hover:bg-green-600;
+}
+
+div.rangeBar__item {
+  @apply z-40;
+  @apply bg-gray-400;
+  @apply h-1 w-4;
+  @apply mt-[5px];
+}
